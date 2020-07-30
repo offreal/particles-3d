@@ -11,6 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "dat.gui": "^0.7.7",
-    "three": "^0.101.0"
+    "three": "^0.101.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }
